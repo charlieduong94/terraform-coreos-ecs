@@ -1,0 +1,8 @@
+[
+  {
+    "name": "core",
+    "image": "windbreaker/windbreaker",
+    "image-digest": "latest",
+    "memory": 512
+  }
+]
