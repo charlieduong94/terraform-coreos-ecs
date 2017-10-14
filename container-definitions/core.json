@@ -3,6 +3,7 @@
     "name": "core",
     "image": "windbreaker/windbreaker",
     "image-digest": "latest",
-    "memory": 512
+    "memory": 512,
+    "memoryReservation": 450
   }
 ]

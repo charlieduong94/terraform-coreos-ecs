@@ -1,3 +1,8 @@
+variable "cluster_name" {
+  description = "the name of the cluster to launch"
+  default = "ecs_cluster"
+}
+
 variable "ssh_public_key_file" {
   description = "The public key file"
   default = "~/.ssh/id_rsa.pub"
